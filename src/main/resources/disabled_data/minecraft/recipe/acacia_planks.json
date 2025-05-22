@@ -1,0 +1,8 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [],
+  "result": {
+    "id": "minecraft:air",
+    "count": 1
+  }
+}
