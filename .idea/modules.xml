@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/manywood.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/manywood.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/manywood.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/manywood.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/manywood.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/manywood.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/manywood.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/manywood.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/manywood.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/manywood.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/manywood.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/manywood.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/manywood.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/manywood.neoforge.test.iml" />
+    </modules>
+  </component>
+</project>
