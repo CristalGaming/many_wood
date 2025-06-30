@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "LLL",
+    "LLL"
+  ],
+  "key": {
+    "L": {"item": "manywood:regions_unexplored/alpha_lumber"}
+  },
+  "result":{
+    "id": "minecraft:oak_trapdoor",
+    "count": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "manywood:dark_oak_lumber"
+    }
+  ],
+  "result":{
+    "id": "minecraft:dark_oak_button",
+    "count": 1
+  }
+}

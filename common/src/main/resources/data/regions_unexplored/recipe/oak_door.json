@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "LL",
+    "LL",
+    "LL"
+  ],
+  "key": {
+    "L": {"item": "manywood:regions_unexplored/alpha_lumber"}
+  },
+  "result":{
+    "id": "minecraft:oak_door",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "manywood:item/lumber/regions_unexplored/cobalt_lumber"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "manywood:acacia_lumber"
+    }
+  },
+  "result": {
+    "id": "minecraft:acacia_planks",
+    "count": 1
+  }
+}

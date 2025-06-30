@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item":"minecraft:crimson_planks"
+    }
+  ],
+  "result": {
+    "id": "manywood:crimson_lumber",
+    "count": 4
+  }
+}

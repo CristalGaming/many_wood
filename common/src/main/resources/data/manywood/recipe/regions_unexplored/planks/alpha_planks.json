@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "manywood:regions_unexplored/alpha_lumber"
+    }
+  },
+  "result": {
+    "id": "regions_unexplored:alpha_planks",
+    "count": 1
+  }
+}

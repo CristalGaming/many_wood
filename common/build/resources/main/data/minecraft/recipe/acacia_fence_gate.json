@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "RLR",
+    "RLR"
+  ],
+  "key": {
+    "L": {"item": "manywood:acacia_lumber"},
+    "R": {"tag": "c:rods/wooden"}
+  },
+  "result":{
+    "id": "minecraft:acacia_fence_gate",
+    "count": 3
+  }
+}

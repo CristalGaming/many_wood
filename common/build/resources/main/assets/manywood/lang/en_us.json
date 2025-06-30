@@ -1,0 +1,60 @@
+{
+  "item.manywood.oak_lumber": "Oak Lumber",
+  "item.manywood.spruce_lumber": "Spruce Lumber",
+  "item.manywood.birch_lumber": "Birch Lumber",
+  "item.manywood.jungle_lumber": "Jungle Lumber",
+  "item.manywood.acacia_lumber": "Acacia Lumber",
+  "item.manywood.dark_oak_lumber": "Dark Oak Lumber",
+  "item.manywood.mangrove_lumber": "Mangrove Lumber",
+  "item.manywood.cherry_lumber": "Cherry Lumber",
+  "item.manywood.crimson_lumber": "Crimson Lumber",
+  "item.manywood.warped_lumber": "Warped Lumber",
+
+  "item.manywood.regions_unexplored.alpha_lumber": "Alpha Lumber",
+  "item.manywood.regions_unexplored.baobab_lumber": "Baobab Lumber",
+  "item.manywood.regions_unexplored.blackwood_lumber": "Blackwood Lumber",
+  "item.manywood.regions_unexplored.blue_bioshroom_lumber": "Blue Bioshroom Lumber",
+  "item.manywood.regions_unexplored.brimwood_lumber": "Brimwood Lumber",
+  "item.manywood.regions_unexplored.cobalt_lumber": "Cobalt Lumber",
+  "item.manywood.regions_unexplored.cypress_lumber": "Cypress Lumber",
+  "item.manywood.regions_unexplored.dead_lumber": "Dead Lumber",
+  "item.manywood.regions_unexplored.eucalyptus_lumber": "Eucalyptus Lumber",
+  "item.manywood.regions_unexplored.green_bioshroom_lumber": "Green Bioshroom Lumber",
+  "item.manywood.regions_unexplored.joshua_lumber": "Joshua Lumber",
+  "item.manywood.regions_unexplored.kapok_lumber": "Kapok Lumber",
+  "item.manywood.regions_unexplored.larch_lumber": "Larch Lumber",
+  "item.manywood.regions_unexplored.magnolia_lumber": "Magnolia Lumber",
+  "item.manywood.regions_unexplored.maple_lumber": "Maple Lumber",
+  "item.manywood.regions_unexplored.mauve_lumber": "Mauve Lumber",
+  "item.manywood.regions_unexplored.palm_lumber": "Palm Lumber",
+  "item.manywood.regions_unexplored.pine_lumber": "Pine Lumber",
+  "item.manywood.regions_unexplored.pink_bioshroom_lumber": "Pink Bioshroom Lumber",
+  "item.manywood.regions_unexplored.redwood_lumber": "Redwood Lumber",
+  "item.manywood.regions_unexplored.socotra_lumber": "Socotra Lumber",
+  "item.manywood.regions_unexplored.willow_lumber": "Willow Lumber",
+  "item.manywood.regions_unexplored.yellow_bioshroom_lumber": "Yellow_bioshroom Lumber",
+
+  "item.manywood.regions_unexplored.white_painted_lumber": "White Painted Lumber",
+  "item.manywood.regions_unexplored.light_gray_painted_lumber": "Light Gray Painted Lumber",
+  "item.manywood.regions_unexplored.gray_painted_lumber": "Gray Painted Lumber",
+  "item.manywood.regions_unexplored.black_painted_lumber": "Black Painted Lumber",
+
+  "item.manywood.regions_unexplored.brown_painted_lumber": "Brown Painted Lumber",
+  "item.manywood.regions_unexplored.red_painted_lumber": "Red Painted Lumber",
+  "item.manywood.regions_unexplored.orange_painted_lumber": "Orange Painted Lumber",
+  "item.manywood.regions_unexplored.yellow_painted_lumber": "Yellow Painted Lumber",
+
+  "item.manywood.regions_unexplored.lime_painted_lumber": "Lime Painted Lumber",
+  "item.manywood.regions_unexplored.green_painted_lumber": "Green Painted Lumber",
+  "item.manywood.regions_unexplored.cyan_painted_lumber": "Cyan Painted Lumber",
+  "item.manywood.regions_unexplored.light_blue_painted_lumber": "Light Blue Painted Lumber",
+  "item.manywood.regions_unexplored.blue_painted_lumber": "Blue Painted Lumber",
+
+  "item.manywood.regions_unexplored.purple_painted_lumber": "Purple Painted Lumber",
+  "item.manywood.regions_unexplored.magenta_painted_lumber": "Magenta Painted Lumber",
+  "item.manywood.regions_unexplored.pink_painted_lumber": "Pink Painted Lumber",
+
+  "tooltip.manywood.regions_unexplored": "Regions Unexplored"
+
+
+}

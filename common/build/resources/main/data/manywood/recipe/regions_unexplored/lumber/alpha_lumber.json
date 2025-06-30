@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item":"regions_unexplored:alpha_planks"
+    }
+  ],
+  "result": {
+    "id": "manywood:regions_unexplored/alpha_lumber",
+    "count": 4
+  }
+}

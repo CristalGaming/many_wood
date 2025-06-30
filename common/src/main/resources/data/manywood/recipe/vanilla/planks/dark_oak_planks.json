@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "manywood:dark_oak_lumber"
+    }
+  },
+  "result": {
+    "id": "minecraft:dark_oak_planks",
+    "count": 1
+  }
+}

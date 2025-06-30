@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "manywood:crimson_lumber"
+    }
+  ],
+  "result":{
+    "id": "minecraft:crimson_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "LLL",
+    "LLL"
+  ],
+  "key": {
+    "L": {"item": "manywood:dark_oak_lumber"}
+  },
+  "result":{
+    "id": "minecraft:dark_oak_trapdoor",
+    "count": 2
+  }
+}

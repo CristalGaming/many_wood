@@ -1,0 +1,29 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-06-30 21:52:53 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "willow_forest": "2025-06-30 21:54:26 +0300",
+      "lupine_plains": "2025-06-30 21:52:54 +0300"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "willow_forest": "2025-06-30 21:54:26 +0300",
+      "lupine_plains": "2025-06-30 21:52:54 +0300"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-06-30 21:52:54 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
