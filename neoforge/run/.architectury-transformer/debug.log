@@ -95,65 +95,65 @@
 [Architectury Transformer DEBUG]  - C:\Users\elise\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.97.Final\54188f271e388e7f313aea995e82f58ce2cdb809\netty-transport-native-epoll-4.1.97.Final-linux-x86_64.jar
 [Architectury Transformer DEBUG]  - C:\Users\elise\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.97.Final\5514744c588190ffda076b35a9b8c9f24946a960\netty-transport-native-epoll-4.1.97.Final-linux-aarch_64.jar
 [Architectury Transformer DEBUG]  - C:\Users\elise\IdeaProjects\manywood\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_1_layered_hash_40359_v2_neoforge_21_1_172_forge\dev\architectury\architectury-neoforge\13.0.8\architectury-neoforge-13.0.8.jar
-[Architectury Transformer] Read classpath in 1.831 s
+[Architectury Transformer] Read classpath in 2.620 s
 [Architectury Transformer DEBUG] Closed File Systems for C:\Users\elise\IdeaProjects\manywood\common\build\devlibs\manywood-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 6 transformer(s) from C:\Users\elise\IdeaProjects\manywood\common\build\devlibs\manywood-common-1.0.0-dev.jar to C:\Users\elise\AppData\Local\Temp\15898561079572073064.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@6dbb137d
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@3c9d0b9d
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@43301423
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeAnnotations@2f112965
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment@1a04f701
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeNeoForgeMod@4e91d63f
-[Architectury Transformer DEBUG] Transforming from C:\Users\elise\IdeaProjects\manywood\common\build\devlibs\manywood-common-1.0.0-dev.jar to C:\Users\elise\AppData\Local\Temp\15898561079572073064.jar with 6 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming 6 transformer(s) from C:\Users\elise\IdeaProjects\manywood\common\build\devlibs\manywood-common-1.0.0-dev.jar to C:\Users\elise\AppData\Local\Temp\5210821614800500221.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@4445629
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@45b9a632
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@25d250c6
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeAnnotations@4df50bcc
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment@6b26e945
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeNeoForgeMod@63a65a25
+[Architectury Transformer DEBUG] Transforming from C:\Users\elise\IdeaProjects\manywood\common\build\devlibs\manywood-common-1.0.0-dev.jar to C:\Users\elise\AppData\Local\Temp\5210821614800500221.jar with 6 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000020a010841f8@5dd6264
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x00000175240841f8@12b0404f
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/cristal/many_wood_variants/ManyWood with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing com/cristal/many_wood_variants/item/Lumber with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/cristal/many_wood_variants/item/RUSupport with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing com/cristal/many_wood_variants/item/VanillaSupport with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing com/cristal/many_wood_variants/item/Lumber with maxs=true frames=true
-[Architectury Transformer DEBUG] Closed File Systems for C:\Users\elise\AppData\Local\Temp\15898561079572073064.jar
-[Architectury Transformer] Listening at C:\Users\elise\IdeaProjects\manywood\common\build\devlibs\manywood-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Temporary jar [C:\Users\elise\AppData\Local\Temp\15898561079572073064.jar] contains packages: com.cristal.many_wood_variants, com.cristal.many_wood_variants.item
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\elise\AppData\Local\Temp\5210821614800500221.jar
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\elise\AppData\Local\Temp\5210821614800500221.jar] contains packages: com.cristal.many_wood_variants, com.cristal.many_wood_variants.item
 [Architectury Transformer DEBUG] Closed File Systems for C:\Users\elise\IdeaProjects\manywood\common\build\devlibs\manywood-common-1.0.0-dev.jar
+[Architectury Transformer] Listening at C:\Users\elise\IdeaProjects\manywood\common\build\devlibs\manywood-common-1.0.0-dev.jar
 [Architectury Transformer DEBUG] Classpath entry [C:\Users\elise\IdeaProjects\manywood\neoforge\build\resources\main] contains packages: 
 [Architectury Transformer DEBUG] Transforming from com/cristal/many_wood_variants/ManyWood.class to com/cristal/many_wood_variants/ManyWood.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000020a010841f8@5dd6264
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x00000175240841f8@12b0404f
 [Architectury Transformer DEBUG] Remapping with Dirty Mappings...
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/cristal/many_wood_variants/ManyWood with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/cristal/many_wood_variants/ManyWood in 118.4 ms
+[Architectury Transformer DEBUG] Transformed com/cristal/many_wood_variants/ManyWood in 109.1 ms
 [Architectury Transformer DEBUG] Transforming from com/cristal/many_wood_variants/item/VanillaSupport.class to com/cristal/many_wood_variants/item/VanillaSupport.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000020a010841f8@5dd6264
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x00000175240841f8@12b0404f
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/cristal/many_wood_variants/item/VanillaSupport with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/cristal/many_wood_variants/item/VanillaSupport in 38.63 ms
+[Architectury Transformer DEBUG] Transformed com/cristal/many_wood_variants/item/VanillaSupport in 33.69 ms
 [Architectury Transformer DEBUG] Transforming from com/cristal/many_wood_variants/item/Lumber.class to com/cristal/many_wood_variants/item/Lumber.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000020a010841f8@5dd6264
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x00000175240841f8@12b0404f
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/cristal/many_wood_variants/item/Lumber with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/cristal/many_wood_variants/item/Lumber in 20.84 ms
+[Architectury Transformer DEBUG] Transformed com/cristal/many_wood_variants/item/Lumber in 26.02 ms
 [Architectury Transformer DEBUG] Transforming from com/cristal/many_wood_variants/item/RUSupport.class to com/cristal/many_wood_variants/item/RUSupport.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000020a010841f8@5dd6264
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x00000175240841f8@12b0404f
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/cristal/many_wood_variants/item/RUSupport with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed com/cristal/many_wood_variants/item/RUSupport in 26.73 ms
+[Architectury Transformer DEBUG] Transformed com/cristal/many_wood_variants/item/RUSupport in 28.47 ms

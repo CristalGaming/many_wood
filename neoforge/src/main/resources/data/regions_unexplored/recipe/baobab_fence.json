@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "LRL",
+    "LRL"
+  ],
+  "key": {
+    "L": {"item": "manywood:regions_unexplored/baobab_lumber"},
+    "R": {"tag": "c:rods/wooden"}
+  },
+  "result":{
+    "id": "regions_unexplored:baobab_fence",
+    "count": 3
+  }
+}

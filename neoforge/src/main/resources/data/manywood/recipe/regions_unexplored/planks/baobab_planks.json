@@ -6,11 +6,11 @@
   ],
   "key": {
     "#": {
-      "item": "manywood:regions_unexplored/alpha_lumber"
+      "item": "manywood:regions_unexplored/baobab_lumber"
     }
   },
   "result": {
-    "id": "regions_unexplored:alpha_planks",
+    "id": "regions_unexplored:baobab_planks",
     "count": 1
   }
 }

@@ -10,7 +10,8 @@
       "minecraft:beach": "2025-07-02 13:01:23 +0300",
       "minecraft:jungle": "2025-06-30 20:57:36 +0300",
       "minecraft:river": "2025-07-02 13:06:54 +0300",
-      "minecraft:lukewarm_ocean": "2025-07-02 13:02:48 +0300"
+      "minecraft:lukewarm_ocean": "2025-07-02 13:02:48 +0300",
+      "minecraft:bamboo_jungle": "2025-07-02 14:56:09 +0300"
     },
     "done": false
   },
@@ -227,6 +228,344 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-07-02 13:14:01 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/stick_from_acacia_branch": {
+    "criteria": {
+      "has_acacia_branch": "2025-07-02 14:39:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-07-02 14:39:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-07-02 14:39:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-02 14:39:28 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2025-07-02 14:39:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-07-02 14:39:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-07-02 14:39:36 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/acacia_branch_from_acacia_log": {
+    "criteria": {
+      "has_log": "2025-07-02 14:39:36 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "sparse_redwoods": "2025-07-02 14:43:04 +0300",
+      "grassy_beach": "2025-07-02 14:43:07 +0300"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "sparse_redwoods": "2025-07-02 14:43:04 +0300",
+      "grassy_beach": "2025-07-02 14:43:07 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-02 14:56:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-02 14:56:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-02 14:56:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-02 14:56:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-02 14:56:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-02 14:56:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-02 14:56:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-02 14:56:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-02 14:56:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-02 14:56:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-02 14:56:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-02 14:56:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-02 14:56:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-02 14:56:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-02 14:56:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-02 14:56:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-02 14:56:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-02 14:56:39 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/green_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/white_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_fence_gate": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/brimwood_fence": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_slab": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/brimwood_sign": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/black_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_heavy_core": "2025-07-02 15:02:54 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_button": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_stairs": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_trapdoor": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-07-02 15:02:57 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_pressure_plate": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_door": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-07-02 15:01:34 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/red_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-07-02 15:01:34 +0300"
     },
     "done": true
   },

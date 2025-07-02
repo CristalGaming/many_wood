@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "manywood:regions_unexplored/baobab_lumber"
+    }
+  ],
+  "result":{
+    "id": "regions_unexplored:baobab_button",
+    "count": 1
+  }
+}

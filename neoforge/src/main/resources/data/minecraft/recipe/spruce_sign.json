@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "LLL",
+    "LLL",
+    " R "
+  ],
+  "key": {
+    "L": {"item": "manywood:spruce_lumber"},
+    "R": {"tag": "c:rods/wooden"}
+  },
+  "result":{
+    "id": "minecraft:spruce_sign",
+    "count": 3
+  }
+}

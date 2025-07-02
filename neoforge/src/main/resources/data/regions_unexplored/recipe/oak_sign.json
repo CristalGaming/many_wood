@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "LLL",
+    "LLL",
+    " R "
+  ],
+  "key": {
+    "L": {"item": "manywood:regions_unexplored/alpha_lumber"},
+    "R": {"tag": "c:rods/wooden"}
+  },
+  "result":{
+    "id": "minecraft:oak_sign",
+    "count": 3
+  }
+}

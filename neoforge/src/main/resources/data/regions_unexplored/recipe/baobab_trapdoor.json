@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "LLL",
+    "LLL"
+  ],
+  "key": {
+    "L": {"item": "manywood:regions_unexplored/baobab_lumber"}
+  },
+  "result":{
+    "id": "regions_unexplored:baobab_trapdoor",
+    "count": 2
+  }
+}

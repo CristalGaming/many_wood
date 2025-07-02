@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "LLL",
+    "LLL",
+    " R "
+  ],
+  "key": {
+    "L": {"item": "manywood:dark_oak_lumber"},
+    "R": {"tag": "c:rods/wooden"}
+  },
+  "result":{
+    "id": "minecraft:dark_oak_sign",
+    "count": 3
+  }
+}
