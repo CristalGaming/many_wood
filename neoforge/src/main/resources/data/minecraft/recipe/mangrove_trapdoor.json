@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "LLL",
+    "LLL"
+  ],
+  "key": {
+    "L": {"item": "manywood:mangrove_lumber"}
+  },
+  "result":{
+    "id": "minecraft:mangrove_trapdoor",
+    "count": 2
+  }
+}

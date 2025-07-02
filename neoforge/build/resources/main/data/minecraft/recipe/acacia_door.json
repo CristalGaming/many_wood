@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "LL",
+    "LL",
+    "LL"
+  ],
+  "key": {
+    "L": {"item": "manywood:acacia_lumber"}
+  },
+  "result":{
+    "id": "minecraft:acacia_door",
+    "count": 1
+  }
+}

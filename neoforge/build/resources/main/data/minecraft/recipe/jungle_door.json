@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "LL",
+    "LL",
+    "LL"
+  ],
+  "key": {
+    "L": {"item": "manywood:jungle_lumber"}
+  },
+  "result":{
+    "id": "minecraft:jungle_door",
+    "count": 1
+  }
+}

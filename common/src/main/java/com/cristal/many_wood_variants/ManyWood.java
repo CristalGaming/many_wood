@@ -10,6 +10,6 @@ public final class ManyWood {
     public static void init() {
         // Write common init code here.
         VanillaSupport.register();
-        if(Platform.isModLoaded("regions_unexplored")) RUSupport.register();
+        if(Platform.isModLoaded("regions_unexplored") && Platform.isNeoForge()) RUSupport.register();
     }
 }

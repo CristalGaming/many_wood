@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "manywood:jungle_lumber"
+    }
+  ],
+  "result":{
+    "id": "minecraft:jungle_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "LRL",
+    "LRL"
+  ],
+  "key": {
+    "L": {"item": "manywood:crimson_lumber"},
+    "R": {"tag": "c:rods/wooden"}
+  },
+  "result":{
+    "id": "minecraft:crimson_fence",
+    "count": 3
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "LRL",
+    "LRL"
+  ],
+  "key": {
+    "L": {"item": "manywood:jungle_lumber"},
+    "R": {"tag": "c:rods/wooden"}
+  },
+  "result":{
+    "id": "minecraft:jungle_fence",
+    "count": 3
+  }
+}

@@ -19,7 +19,7 @@
       "com.cristal.many_wood_variants.fabric.ManyWoodFabric"
     ],
     "client": [
-      "com.cristal.many_wood_variants.fabric.client.ExampleModFabricClient"
+      "com.cristal.many_wood_variants.fabric.client.ManyWoodFabricClient"
     ]
   },
   "mixins": [
@@ -33,5 +33,12 @@
   },
   "suggests": {
     "regions_unexplored": "*"
+  },
+  "custom": {
+    "fabric:resource_load_order": {
+      "after":[
+        "regions_unexplored"
+      ]
+    }
   }
 }

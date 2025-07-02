@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "LRL",
+    "LRL"
+  ],
+  "key": {
+    "L": {"item": "manywood:warped_lumber"},
+    "R": {"tag": "c:rods/wooden"}
+  },
+  "result":{
+    "id": "minecraft:warped_fence",
+    "count": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "LL"
+  ],
+  "key": {
+    "L": {"item": "manywood:oak_lumber"}
+  },
+  "result":{
+    "id": "minecraft:oak_pressure_plate",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "manywood:acacia_lumber"
+    }
+  ],
+  "result":{
+    "id": "minecraft:acacia_button",
+    "count": 1
+  }
+}

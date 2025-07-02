@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "manywood:warped_lumber"
+    }
+  ],
+  "result":{
+    "id": "minecraft:warped_button",
+    "count": 1
+  }
+}

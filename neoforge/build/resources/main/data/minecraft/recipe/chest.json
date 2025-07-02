@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "LLL",
+    "L L",
+    "LLL"
+  ],
+  "key": {
+    "L": {"tag": "c:lumbers"}
+  },
+  "result": {
+    "id": "minecraft:chest",
+    "count": 1
+  }
+}
